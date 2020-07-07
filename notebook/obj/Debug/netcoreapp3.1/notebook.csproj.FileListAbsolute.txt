@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.exe
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.deps.json
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.json
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.runtimeconfig.dev.json
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.dll
+C:\Users\User\source\repos\notebook\notebook\bin\Debug\netcoreapp3.1\notebook.pdb
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csprojAssemblyReference.cache
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.AssemblyInfo.cs
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.dll
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.pdb
+C:\Users\User\source\repos\notebook\notebook\obj\Debug\netcoreapp3.1\notebook.genruntimeconfig.cache
